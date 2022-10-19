@@ -1,0 +1,15 @@
+D:\c# code\sort ARRAYS\sort ARRAYS\bin\Debug\net6.0\sort ARRAYS.exe
+D:\c# code\sort ARRAYS\sort ARRAYS\bin\Debug\net6.0\sort ARRAYS.deps.json
+D:\c# code\sort ARRAYS\sort ARRAYS\bin\Debug\net6.0\sort ARRAYS.runtimeconfig.json
+D:\c# code\sort ARRAYS\sort ARRAYS\bin\Debug\net6.0\sort ARRAYS.dll
+D:\c# code\sort ARRAYS\sort ARRAYS\bin\Debug\net6.0\sort ARRAYS.pdb
+D:\c# code\sort ARRAYS\sort ARRAYS\obj\Debug\net6.0\sort ARRAYS.csproj.AssemblyReference.cache
+D:\c# code\sort ARRAYS\sort ARRAYS\obj\Debug\net6.0\sort ARRAYS.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# code\sort ARRAYS\sort ARRAYS\obj\Debug\net6.0\sort ARRAYS.AssemblyInfoInputs.cache
+D:\c# code\sort ARRAYS\sort ARRAYS\obj\Debug\net6.0\sort ARRAYS.AssemblyInfo.cs
+D:\c# code\sort ARRAYS\sort ARRAYS\obj\Debug\net6.0\sort ARRAYS.csproj.CoreCompileInputs.cache
+D:\c# code\sort ARRAYS\sort ARRAYS\obj\Debug\net6.0\sort ARRAYS.dll
+D:\c# code\sort ARRAYS\sort ARRAYS\obj\Debug\net6.0\refint\sort ARRAYS.dll
+D:\c# code\sort ARRAYS\sort ARRAYS\obj\Debug\net6.0\sort ARRAYS.pdb
+D:\c# code\sort ARRAYS\sort ARRAYS\obj\Debug\net6.0\sort ARRAYS.genruntimeconfig.cache
+D:\c# code\sort ARRAYS\sort ARRAYS\obj\Debug\net6.0\ref\sort ARRAYS.dll
